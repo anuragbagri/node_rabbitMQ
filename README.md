@@ -1,2 +1,2 @@
 ### this is an implementation of the rabbitMQ using node.
-covering all important topics in rabbitMQ(broker)
+covering all important topics in rabbitMQ(broker).. just for learning purpose .... 
